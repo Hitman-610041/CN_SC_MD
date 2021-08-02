@@ -12,7 +12,7 @@
 
 - 学制：大专 （ + 工读 ）
 - 时间：2年
-- 学费（年）：33264 / 36525
+- 学费（年）：33264 / 36525 2年
 - 来源：https://www.nait.ca/programs/computer-engineering-technology?term=2021-fall&overviewtabs=career-opportunities&tiletabs=program-tuition
 
 
@@ -32,3 +32,4 @@
 - 时间：2年
 - 学费（年）：38808 / 39456 2年
 - 来源：https://www.nait.ca/programs/dmit-web-design-development?term=2021-fall
+
