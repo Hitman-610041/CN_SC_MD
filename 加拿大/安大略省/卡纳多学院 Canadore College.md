@@ -3,6 +3,7 @@
 - 官网：https://www.canadorecollege.ca/
 - 语言：大专5.5，单项不低于5 / 研文6，单项不低于5.5
 - 费用：生活费（月）：600-1000
+- 参考：https://www.canadorecollege.ca/support/admissions/english-language-proficiency-requirements
 
 
 
@@ -33,4 +34,4 @@
 - 时间：2年
 - 学费（年）：35356.2（2年）
 - 来源：https://www.canadorecollege.ca/programs/mobile-application-development
-
+- 备注：本学校的特色专业

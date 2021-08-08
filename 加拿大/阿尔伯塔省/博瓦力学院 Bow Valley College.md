@@ -54,8 +54,3 @@
 - 学费（年）：37640 2年
 - 来源：https://bowvalleycollege.ca/programs-courses/technology/software-development-diploma
 - 可选 Employment Search Preparation
-
-
-
-
-
