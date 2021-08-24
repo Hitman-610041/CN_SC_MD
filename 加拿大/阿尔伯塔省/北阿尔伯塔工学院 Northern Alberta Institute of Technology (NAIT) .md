@@ -10,12 +10,12 @@
 
 # 专业/费用
 
-#### Cisco CCNA Routing and Switching 思科CCNA路由和交换技术
+#### Cybersecurity 网络安全
 
-- 学制：证书
-- 时间：2年
-- 来源：https://www.nait.ca/coned/cisco-ccna-routing-switching?overviewtabs=certification
-- 备注：和本科专业完全契合，仅做学签申请使用
+- 学制：研文
+- 时间：1年
+- 来源：https://www.nait.ca/programs/cybersecurity?term=2021-fall
+- 备注：仅作学签申请用
 
 
 
