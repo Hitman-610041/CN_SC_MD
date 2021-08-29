@@ -45,3 +45,4 @@
 - 学费（年）：28680（2年）
 - 杂费：https://www.rrc.ca/future-students/fees/#student
 - 来源：https://catalogue.rrc.ca/Programs/WPG/Fulltime/AIRMF-DP/Overview
+
